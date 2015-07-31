@@ -1,0 +1,13 @@
+{
+    "service": "ground",
+    "packaging": "custom",
+    "from_zip": "10010",
+    "from_country": "US",
+    "to_zip": "10016",
+    "to_country": "US",
+    "items": [
+        {
+            "weight": 10, "weight_unit": "lbs"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pica9/shipperchecker",
+  "description": "Checks shipping stuff! Duh!!111one!one",
+  "require": {
+    "pica9/shipper": "dev-master"
+  },
+  "minimum-stability": "dev",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:njohns-pica9/shipper.git"
+    }
+  ]
+}
